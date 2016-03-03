@@ -1,0 +1,8 @@
+D:\TestProjects\DesignPatterns\Creational\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+D:\TestProjects\DesignPatterns\Creational\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe
+D:\TestProjects\DesignPatterns\Creational\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
+D:\TestProjects\DesignPatterns\Creational\FactoryMethod\FactoryMethod\bin\Debug\ClassLibrary1.dll
+D:\TestProjects\DesignPatterns\Creational\FactoryMethod\FactoryMethod\bin\Debug\ClassLibrary1.pdb
+D:\TestProjects\DesignPatterns\Creational\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+D:\TestProjects\DesignPatterns\Creational\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\TestProjects\DesignPatterns\Creational\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb
